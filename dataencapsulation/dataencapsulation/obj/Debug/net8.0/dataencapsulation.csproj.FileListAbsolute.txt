@@ -1,0 +1,14 @@
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\bin\Debug\net8.0\dataencapsulation.exe
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\bin\Debug\net8.0\dataencapsulation.deps.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\bin\Debug\net8.0\dataencapsulation.runtimeconfig.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\bin\Debug\net8.0\dataencapsulation.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\bin\Debug\net8.0\dataencapsulation.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\dataencapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\dataencapsulation.AssemblyInfoInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\dataencapsulation.AssemblyInfo.cs
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\dataencapsulation.csproj.CoreCompileInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\dataencapsulation.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\refint\dataencapsulation.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\dataencapsulation.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\dataencapsulation.genruntimeconfig.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dataencapsulation\dataencapsulation\obj\Debug\net8.0\ref\dataencapsulation.dll
