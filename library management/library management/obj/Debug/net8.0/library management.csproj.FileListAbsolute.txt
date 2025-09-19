@@ -1,0 +1,14 @@
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\bin\Debug\net8.0\library management.exe
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\bin\Debug\net8.0\library management.deps.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\bin\Debug\net8.0\library management.runtimeconfig.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\bin\Debug\net8.0\library management.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\bin\Debug\net8.0\library management.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\library management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\library management.AssemblyInfoInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\library management.AssemblyInfo.cs
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\library management.csproj.CoreCompileInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\library management.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\refint\library management.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\library management.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\library management.genruntimeconfig.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\library management\library management\obj\Debug\net8.0\ref\library management.dll
