@@ -1,0 +1,14 @@
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\bin\Debug\net8.0\square of a number.exe
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\bin\Debug\net8.0\square of a number.deps.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\bin\Debug\net8.0\square of a number.runtimeconfig.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\bin\Debug\net8.0\square of a number.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\bin\Debug\net8.0\square of a number.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\square of a number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\square of a number.AssemblyInfoInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\square of a number.AssemblyInfo.cs
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\square of a number.csproj.CoreCompileInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\square of a number.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\refint\square of a number.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\square of a number.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\square of a number.genruntimeconfig.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\square of a number\square of a number\obj\Debug\net8.0\ref\square of a number.dll
