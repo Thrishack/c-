@@ -1,0 +1,14 @@
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\bin\Debug\net8.0\posnegzero.exe
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\bin\Debug\net8.0\posnegzero.deps.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\bin\Debug\net8.0\posnegzero.runtimeconfig.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\bin\Debug\net8.0\posnegzero.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\bin\Debug\net8.0\posnegzero.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\posnegzero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\posnegzero.AssemblyInfoInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\posnegzero.AssemblyInfo.cs
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\posnegzero.csproj.CoreCompileInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\posnegzero.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\refint\posnegzero.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\posnegzero.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\posnegzero.genruntimeconfig.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\posnegzero\posnegzero\obj\Debug\net8.0\ref\posnegzero.dll
