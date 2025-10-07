@@ -1,0 +1,14 @@
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\dessert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\dessert.AssemblyInfoInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\dessert.AssemblyInfo.cs
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\dessert.csproj.CoreCompileInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\bin\Debug\net8.0\dessert.exe
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\bin\Debug\net8.0\dessert.deps.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\bin\Debug\net8.0\dessert.runtimeconfig.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\bin\Debug\net8.0\dessert.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\bin\Debug\net8.0\dessert.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\dessert.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\refint\dessert.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\dessert.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\dessert.genruntimeconfig.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\dessert\dessert\obj\Debug\net8.0\ref\dessert.dll
