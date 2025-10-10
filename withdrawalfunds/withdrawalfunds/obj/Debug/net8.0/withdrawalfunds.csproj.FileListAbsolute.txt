@@ -1,0 +1,14 @@
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\bin\Debug\net8.0\withdrawalfunds.exe
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\bin\Debug\net8.0\withdrawalfunds.deps.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\bin\Debug\net8.0\withdrawalfunds.runtimeconfig.json
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\bin\Debug\net8.0\withdrawalfunds.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\bin\Debug\net8.0\withdrawalfunds.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\withdrawalfunds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\withdrawalfunds.AssemblyInfoInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\withdrawalfunds.AssemblyInfo.cs
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\withdrawalfunds.csproj.CoreCompileInputs.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\withdrawalfunds.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\refint\withdrawalfunds.dll
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\withdrawalfunds.pdb
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\withdrawalfunds.genruntimeconfig.cache
+C:\Users\thris\OneDrive\Desktop\thrisha c#\withdrawalfunds\withdrawalfunds\obj\Debug\net8.0\ref\withdrawalfunds.dll
